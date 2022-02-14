@@ -1,5 +1,42 @@
-# FCC Test Suite Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# Project Name
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> Personal Portfolio.
+
+
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo (if available)
+
+[Live Demo Link]amrendrakind.github.io/myportfolio_MV)
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/amrendrakind)
+- Twitter: [@twitterhandle](https://twitter.com/amrendrak_)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/amrendraakumar)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse team for guidance
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
