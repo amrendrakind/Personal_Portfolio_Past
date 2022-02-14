@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(192, 214, 255);
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+#welcome-section {
+  height: 100vh;
+  margin-top: 100px;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+}
+
+#navbar {
+  top: 0;
+  height: 50px;
+  position: fixed;
+}
